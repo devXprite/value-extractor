@@ -1,10 +1,10 @@
 ## value-extractor
 
-The String Value Extractor is a simple and easy-to-use JavaScript library that allows you to extract values from a string based on a pattern. It is useful when you have a string with a predictable structure and you want to extract specific values from it.
+This is a simple and easy-to-use JavaScript library that allows you to extract values from a string based on a pattern. It is useful when you have a string with a predictable structure and you want to extract specific values from it.
 
 
 <!-- for cdn -->
-### CDN
+### Use in Browser
 
 Use directly in the browser with [jsDelivr](https://www.jsdelivr.com/package/npm/value-extractor) or [unpkg](https://unpkg.com/value-extractor/).
 
