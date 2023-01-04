@@ -1,6 +1,6 @@
 {
   "name": "value-extractor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple JavaScript library for extracting values from string based on a pattern",
   "main": "dist/value-extractor.js",
   "type": "commonjs",
