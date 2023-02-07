@@ -15,7 +15,11 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "pattern",
+    "strings",
+    "value-extractor"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
